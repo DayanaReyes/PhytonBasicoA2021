@@ -1,9 +1,8 @@
 print("Ingrese un número")
 numero=int(input(""))
 i=1
-while i<=numero:
-    print("*")
-    i=i+1
+for i in range(numero):
+   print("*"*(i+1))
 print("")
 
 
