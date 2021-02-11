@@ -3,9 +3,8 @@ numero=int(input(""))
 i=1
 for i in range(numero):
    print("*"*(i+1))
+
 print("")
-
-
 print("Ingrese un número")
 numerodos=int(input(""))
 contador=0
