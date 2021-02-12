@@ -6,7 +6,7 @@ if con==contra:
     print("Su contraseña es correcta")
 if con!=contra:
     print("Su contraseña es incorrecta")
-
+print("")
 #ejercicio 2
 print("Ingrese su nombre")
 var1=input().lower()
