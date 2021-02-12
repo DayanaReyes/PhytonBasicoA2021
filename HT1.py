@@ -1,10 +1,12 @@
+#Ejercicio 1
 print("Ingrese un número")
 numero=int(input(""))
 i=1
 for i in range(numero):
    print("*"*(i+1))
-
 print("")
+
+#Ejercicio2
 print("Ingrese un número")
 numerodos=int(input(""))
 contador=0
